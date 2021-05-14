@@ -1,6 +1,7 @@
-//Problem: https://www.hackerrank.com/challenges/kangaroo/problem
+// Problem: https://www.hackerrank.com/challenges/kangaroo/problem
 
-string kangaroo(int x1, int v1, int x2, int v2) {
+string kangaroo(int x1, int v1, int x2, int v2)
+{
     string willMeet = "NO";
 
     if (v2 < v1)

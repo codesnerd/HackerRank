@@ -1,6 +1,7 @@
-Problem: https://www.hackerrank.com/challenges/time-conversion/problem
+// Problem: https://www.hackerrank.com/challenges/time-conversion/problem
 
-string timeConversion(string s) {
+string timeConversion(string s)
+{
     char ampm = tolower(s[s.length() - 2]);
     string time = s.substr(0, 8);
     string hr = s.substr(0, 2);

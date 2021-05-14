@@ -1,6 +1,7 @@
-Problem: https://www.hackerrank.com/challenges/mini-max-sum/problem
+// Problem: https://www.hackerrank.com/challenges/mini-max-sum/problem
 
-void miniMaxSum(vector<int> arr) {
+void miniMaxSum(vector<int> arr)
+{
     long long int sum = 0, min = 0, max = 0;
     int size = arr.size();
     sort(arr.begin(), arr.end());

@@ -1,4 +1,4 @@
-Problem: https://www.hackerrank.com/challenges/staircase/problem
+// Problem: https://www.hackerrank.com/challenges/staircase/problem
 
 void staircase(int n)
 {

@@ -1,4 +1,4 @@
-Problem: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+// Problem: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 
 int birthdayCakeCandles(vector<int> candles)
 {

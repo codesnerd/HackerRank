@@ -1,6 +1,7 @@
-//Problem: https://www.hackerrank.com/challenges/apple-and-orange/problem
+// Problem: https://www.hackerrank.com/challenges/apple-and-orange/problem
 
-void countApplesAndOranges(int s, int t, int a, int b, vector<int> apples, vector<int> oranges) {
+void countApplesAndOranges(int s, int t, int a, int b, vector<int> apples, vector<int> oranges)
+{
     int countA = 0, countO = 0;
 
     for (int i = 0; i < apples.size(); i++)

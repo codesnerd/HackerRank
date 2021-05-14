@@ -1,4 +1,4 @@
-//Problem: https://www.hackerrank.com/challenges/compare-the-triplets/problem
+// Problem: https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 vector<int> compareTriplets(vector<int> a, vector<int> b)
 {
