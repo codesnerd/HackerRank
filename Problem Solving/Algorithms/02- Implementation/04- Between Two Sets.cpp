@@ -28,9 +28,7 @@ int getTotalX(vector<int> a, vector<int> b)
             }
 
         if (final_flag)
-        {
             count++; //only increment count if 'i' is ALSO a factor of ALL values in 'b' array
-        }
     }
 
     return count;
