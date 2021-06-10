@@ -6,7 +6,7 @@ This repo contains my accepted HackerRank solutions in C++14 and MySQL SQL. I ke
 * Programming solutions are done in C++ 14.
 * SQL solutions are done using MySQL.
 
-### If you found the repo useful, do support it by giving a star! ⭐
+### If you found the repo useful, do support it by giving a star. ⭐
 
 ## 🖋 Author
 Follow my GitHub profile to stay updated with my latest projects:
