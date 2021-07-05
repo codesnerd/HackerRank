@@ -2,21 +2,18 @@
 
 string timeConversion(string s)
 {
-    char ampm = tolower(s[s.length() - 2]);
-    string time = s.substr(0, 8);
-    string hr = s.substr(0, 2);
-
-    if (ampm == 'p' && hr != "12")
+    string newtime = s.substr(0, 8);
+    char zone = s[8];
+    int hr = stoi(newtime.substr(0, 2));
+    
+    if (hr == 12 && zone == 'A')
+        newtime.replace(0, 2, "00");
+    else if ((hr >= 1 && hr <= 11) && zone == 'P')
     {
-        hr = to_string((stoi(hr) + 12));
-        time.replace(0, 2, hr);
+        hr += 12;
+        newtime.replace(0, 2, to_string(hr));
     }
-    else if (ampm == 'a' && hr == "12")
-    {
-        hr = "00";
-        time.replace(0, 2, hr);
-    }
-
-    //if time is a.m. or 12 p.m, the time will be returned as is
-    return time;
+    
+    //if time is a.m. or 12 p.m, it will be returned as is
+    return newtime;
 }
