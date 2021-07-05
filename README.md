@@ -1,4 +1,8 @@
-<p align="center"><a href="https://www.hackerrank.com/codesnerd"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png"/></a></p>
+<p align="center">
+  <a href="https://www.hackerrank.com/codesnerd">
+    <img width="900px" src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png"/>
+  </a>
+</p>
 
 ## 🧾 About the Project
 This repo contains my accepted HackerRank solutions in C++14 and MySQL SQL. I keep updating the repo as I solve more problems.
