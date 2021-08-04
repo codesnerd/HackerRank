@@ -26,10 +26,10 @@ int divisibleSumPairs(int n, int k, vector<int> ar)
         if (rfmap.find(complement) != rfmap.end()) //complement is present in map
             count += rfmap[complement];
 
-        if (rfmap.find(rem) == rfmap.end())
-            rfmap.insert({rem, 1});
-        else
+        if (rfmap.find(rem) != rfmap.end())
             rfmap[rem]++;
+        else
+            rfmap.insert({ rem, 1 });
     }
 
     return count;
