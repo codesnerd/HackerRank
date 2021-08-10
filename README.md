@@ -15,7 +15,7 @@ This repo contains my accepted HackerRank solutions in C++14 and MySQL SQL. I ke
 ## 🖋 Author
 Follow my GitHub profile to stay updated with my latest projects:
 
-[![Follow codesnerd on GitHub](https://img.shields.io/badge/Connect-codesnerd-blue.svg?logo=GitHub&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
+[![Follow codesnerd on GitHub](https://img.shields.io/badge/Connect-codesnerd-black.svg?logo=GitHub&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
 
 You can follow me on HackerRank here:
 
