@@ -5,7 +5,8 @@
 </p>
 
 ## 🧾 About the Project
-This repo contains my accepted HackerRank solutions in C++14 and MySQL SQL. I keep updating the repo as I solve more problems.
+This repo contains my accepted and run-time optimized HackerRank solutions. I keep updating the repo as I solve more problems.
+
 ### Built With
 * Programming solutions are done in C++ 14.
 * SQL solutions are done using MySQL.
