@@ -5,7 +5,7 @@
 </p>
 
 ## 🧾 About the Project
-This repo contains my accepted and run-time optimized HackerRank solutions. I keep updating the repo as I solve more problems.
+This repository contains my accepted and run-time optimized HackerRank solutions. I keep updating the repo as I solve more problems.
 
 ### Built With
 * Programming solutions are done in C++ 14.
