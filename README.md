@@ -9,7 +9,7 @@ This repository contains my accepted and run-time optimized HackerRank solutions
 
 ### Built With
 * Programming solutions are done in C++ 14.
-* SQL solutions are done using MySQL.
+* SQL solutions are done using MySQL/Oracle syntax.
 
 ### If you find the repo useful, do support it by giving a star. ⭐
 
