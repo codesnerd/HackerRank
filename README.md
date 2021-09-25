@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.hackerrank.com/codesnerd">
-    <img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png"/>
+    <img src="https://user-images.githubusercontent.com/70039999/134757184-7d612b56-c270-4f18-b14d-3438e9258a03.png"/>
   </a>
 </p>
 
