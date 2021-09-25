@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.hackerrank.com/codesnerd">
-    <img src="https://user-images.githubusercontent.com/70039999/134757184-7d612b56-c270-4f18-b14d-3438e9258a03.png"/>
+    <img width= "600px" src="https://user-images.githubusercontent.com/70039999/134757184-7d612b56-c270-4f18-b14d-3438e9258a03.png"/>
   </a>
 </p>
 
